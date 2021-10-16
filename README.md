@@ -1,5 +1,4 @@
 # Image-Gallery-Application
-Grapecity Assignment
 
 This is a Image gallery Application using windows forms .net framework in C#.
 
